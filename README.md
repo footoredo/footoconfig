@@ -1,3 +1,0 @@
-# @footoredo's Configurations
-
-## vim
